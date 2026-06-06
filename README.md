@@ -43,6 +43,6 @@ When a fault occurs between substations, the system automatically finds an alter
 
 ## Author
 
-Tarunica Baskar
+Mahisha Shree Baskar
 Electrical and Electronics Engineering
 Smart Grid & Electric Vehicle Specialization# GridGuard-AI
